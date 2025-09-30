@@ -5,14 +5,14 @@ public class Assignment1 {
 	public static void main(String[] args) {
 		// 1. Temperature of a city in degrees Celsius: 25.5
 	       float temperature =25.5f;
-	       System.out.println("1.The Temperature of thr city is:" +temperature);
+	       System.out.println("1.The Temperature of the city is:" +temperature);
 	       
 	      //2.Whether a customer has placed an order: true or false
 	       boolean order = false;
 	       System.out.println("2.Order placed :" + order);
 	       
 	      //3. Person's phone number: "123-456-7890"
-	       long Phone = 123-456-7890;
+	       String Phone = "123-456-7890";
 	       System.out.println("3.Phone Number:" + Phone);
 	       
 	      //4. Amount of money in a customer's bank account: 1000.50 
